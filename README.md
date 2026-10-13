@@ -1,5 +1,3 @@
-# Battery-Testing-MATLAB
-Battery testing and performance analysis using MATLAB
 # Battery Testing and Characterization Using MATLAB
 
 ## Project Overview
